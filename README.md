@@ -1,1 +1,1 @@
-# connectssh
+Library makes easy go for connecting hosts using SSH with more reliable. 
